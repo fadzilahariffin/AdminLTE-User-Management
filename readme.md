@@ -1,3 +1,3 @@
 
 ## ADMIN LTE THEME
-- Laravel admin lte theme with user management system
+- Laravel admin lte theme with user management
